@@ -1,2 +1,2 @@
-# MDSC-301
+# MDSC-302
 Deep Learning Lab Work
