@@ -1,2 +1,2 @@
-# MDSC-302
-Deep Learning Lab Work
+# Deep Learning Lab Work
+MDSC-302
